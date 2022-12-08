@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @towhid01309
 - 👀 I’m interested in Full Stack Web Developing.
 - 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on Progamming.
+- 💞️ I’m looking to collaborate on Web Developing Life.
 - 📫 How to reach me > Email: towhid01309@yahoo.com
 
 <!---
